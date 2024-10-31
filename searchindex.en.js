@@ -1,11 +1,27 @@
 var relearn_searchindex = [
   {
+    "breadcrumb": "Ank Docs \u003e Physics",
+    "content": "Electromagnetic Induction",
+    "description": "Electromagnetism",
+    "tags": [],
+    "title": "Electromagnetism",
+    "uri": "/ank-docs/physics/electromagnetism/index.html"
+  },
+  {
     "breadcrumb": "Ank Docs \u003e Mathematics",
     "content": "Ratios and Angles\rSpecial Values",
     "description": "Formulas for Trigonometry",
     "tags": [],
     "title": "Trigonometry",
     "uri": "/ank-docs/maths/trigonometry/index.html"
+  },
+  {
+    "breadcrumb": "Ank Docs",
+    "content": "Trigonometry",
+    "description": "Trigonometry",
+    "tags": [],
+    "title": "Mathematics",
+    "uri": "/ank-docs/maths/index.html"
   },
   {
     "breadcrumb": "Ank Docs \u003e Mathematics \u003e Trigonometry",
@@ -16,6 +32,14 @@ var relearn_searchindex = [
     "uri": "/ank-docs/maths/trigonometry/identities/index.html"
   },
   {
+    "breadcrumb": "Ank Docs",
+    "content": "Electromagnetism",
+    "description": "Physics",
+    "tags": [],
+    "title": "Physics",
+    "uri": "/ank-docs/physics/index.html"
+  },
+  {
     "breadcrumb": "Ank Docs \u003e Mathematics \u003e Trigonometry",
     "content": "Common \u0026 Sub-Angle Values $\\text{Radian}$ $\\text{Degree}$ $\\sin$ $\\cos$ $\\tan$ $\\cot$ $\\sec$ $\\csc$ $0$ $0^{\\circ}$ $0$ $1$ $0$ $\\infty$ $1$ $\\infty$ $\\dfrac{\\pi}{24}$ $7.5^\\circ$ $\\dfrac{1}{2}\\sqrt{2 - \\sqrt{2 + \\sqrt{3}}}$ $\\dfrac{1}{2}\\sqrt{2 + \\sqrt{2 + \\sqrt{3}}}$ $\\sqrt{6} - \\sqrt{3} + \\sqrt{2} - 2$ $\\sqrt{6} + \\sqrt{3} + \\sqrt{2} + 2$ $-$ $-$ $\\dfrac{\\pi}{12}$ $15^\\circ$ $\\dfrac{\\sqrt{2}}{4} (\\sqrt{3} - 1)$ $\\dfrac{\\sqrt{2}}{4} (\\sqrt{3} + 1)$ $2 - \\sqrt{3}$ $2 + \\sqrt{3}$ $\\sqrt{2}(\\sqrt{3} - 1)$ $\\sqrt{2}(\\sqrt{3} + 1)$ $\\dfrac{\\pi}{10}$ $18^\\circ$ $\\dfrac{\\sqrt{5} - 1}{4}$ $\\dfrac{\\sqrt{10 + 2 \\sqrt{5}}}{4}$ $\\dfrac{\\sqrt{25 - 10 \\sqrt{5}}}{5}$ $\\dfrac{\\sqrt{5 + 2 \\sqrt{5}}}{5}$ $\\dfrac{\\sqrt{50 - 10 \\sqrt{5}}}{5}$ $1 + \\sqrt{5}$ $\\dfrac{\\pi}{8}$ $22.5^\\circ$ $\\dfrac{\\sqrt{2 - \\sqrt{2}}}{2}$ $\\dfrac{\\sqrt{2 + \\sqrt{2}}}{2}$ $\\sqrt{2} - 1$ $\\sqrt{2} + 1$ $\\sqrt{4 - 2 \\sqrt{2}}$ $\\sqrt{4 + 2 \\sqrt{2}}$ $\\dfrac{\\pi}{6}$ $30^\\circ$ $\\dfrac{1}{2}$ $\\dfrac{\\sqrt{3}}{2}$ $\\dfrac{1}{\\sqrt{3}}$ $\\sqrt{3}$ $\\dfrac{2}{\\sqrt{3}}$ $2$ $\\dfrac{\\pi}{5}$ $36^\\circ$ $\\dfrac{\\sqrt{10 - 2 \\sqrt{5}}}{4}$ $\\dfrac{1 + \\sqrt{5}}{4}$ $\\dfrac{\\sqrt{5 - 2 \\sqrt{5}}}{5}$ $\\dfrac{\\sqrt{25 + 10 \\sqrt{5}}}{5}$ $\\dfrac{\\sqrt{5} - 1}{2}$ $\\dfrac{\\sqrt{50 + 10 \\sqrt{5}}}{5}$ $\\dfrac{\\pi}{4}$ $45^\\circ$ $\\dfrac{\\sqrt{2}}{2}$ $\\dfrac{\\sqrt{2}}{2}$ $1$ $1$ $\\sqrt{2}$ $\\sqrt{2}$ $\\dfrac{3\\pi}{10}$ $54^\\circ$ $\\dfrac{1 + \\sqrt{5}}{4}$ $\\dfrac{\\sqrt{10 - 2 \\sqrt{5}}}{4}$ $\\dfrac{\\sqrt{25 + 10 \\sqrt{5}}}{5}$ $\\sqrt{5 - 2 \\sqrt{5}}$ $\\dfrac{\\sqrt{50 + 10 \\sqrt{5}}}{5}$ $\\sqrt{5} - 1$ $\\dfrac{\\pi}{3}$ $60^\\circ$ $\\dfrac{\\sqrt{3}}{2}$ $\\dfrac{1}{2}$ $\\sqrt{3}$ $\\dfrac{1}{\\sqrt{3}}$ $2$ $\\dfrac{2}{\\sqrt{3}}$ $\\dfrac{3\\pi}{8}$ $67.5^\\circ$ $\\dfrac{\\sqrt{2 + \\sqrt{2}}}{2}$ $\\dfrac{\\sqrt{2 - \\sqrt{2}}}{2}$ $\\sqrt{2} + 1$ $\\sqrt{2} - 1$ $4 + 2 \\sqrt{2}$ $4 - 2 \\sqrt{2}$ $\\dfrac{2\\pi}{5}$ $72^\\circ$ $\\dfrac{\\sqrt{10 + 2 \\sqrt{5}}}{4}$ $\\dfrac{\\sqrt{5} - 1}{4}$ $\\sqrt{5 + 2 \\sqrt{5}}$ $\\dfrac{\\sqrt{25 - 10 \\sqrt{5}}}{5}$ $1 + \\sqrt{5}$ $\\dfrac{\\sqrt{50 - 10 \\sqrt{5}}}{5}$ $\\dfrac{5\\pi}{12}$ $75^\\circ$ $\\dfrac{\\sqrt{2}}{4} (\\sqrt{3} + 1)$ $\\dfrac{\\sqrt{2}}{4} (\\sqrt{3} - 1)$ $2 + \\sqrt{3}$ $2 - \\sqrt{3}$ $\\sqrt{2}(\\sqrt{3} + 1)$ $\\sqrt{2}(\\sqrt{3} - 1)$ $\\dfrac{\\pi}{1}$ $90^\\circ$ $1$ $0$ $\\infty$ $0$ $\\infty$ $1$ Sources Wikipedia: Exact Trigonometric Values",
     "description": "Special Values",
@@ -24,20 +48,20 @@ var relearn_searchindex = [
     "uri": "/ank-docs/maths/trigonometry/values/index.html"
   },
   {
+    "breadcrumb": "Ank Docs \u003e Physics \u003e Electromagnetism",
+    "content": "Induction Faraday’s Law Whenever the flux of magnetic field through the area bounded by a closed conducting loop changes, and emf in produced in the loop.\nEMF induced $(\\mathcal{E})$:\n$\\mathcal{E} = -\\dfrac{d\\Phi}{dt}$\nFlux ($\\Phi$):\n$\\Phi = \\int{\\vec{B}\\cdot \\vec{dS}} = BA \\cos \\theta$\nLenz’s Law The direction of induced current is such theat it opposes the change that has induced it. Motional EMF EMF in a conductor moving with velocity $v$ in magnetic field $B$:\n$\\mathcal{E} = vBl$ Induced Electric Field Induced electric field $E$ around a loop: $\\oint E \\, dl = -\\dfrac{d\\Phi}{dt}$ Eddy Current Electromagnetic damping. Circular currents induced in conductors due to changing magnetic flux. $\\left|i\\right| \\propto -\\dfrac{d\\Phi}{dt}$. Self-Induction $\\Phi = Li$\nInduced EMF $(\\mathcal{E})$ in coil due to its own current $I$:\n$\\mathcal{E} = -L \\dfrac{di}{dt}$\nInductor Self-Inductance of a Long Solenoid $L = \\mu_0\\:n^2Al$\n$n$: Turns per unit length,\n$A$: Cross-sectional area,\n$l$: Length of solenoid.\nGrowth and Decay of Current in an LR Circuit Growth:\n$i = i_0 \\biggr(1 - e^{-t/\\tau} \\biggr)$ Decay:\n$i = i_0\\: e^{-t/\\tau}$ Time constant ($\\tau$):\n$\\tau = \\dfrac{L}{R}$ At $t = \\tau$,\nGrowth: $i = i_0 (1-\\dfrac{1}{e}) = 0.63 i_0$\nDecay: $i = i_0 \\dfrac{1}{e} = 0.37 i_0$\nEnergy Stored in an Inductor Energy $(U)$: $U = \\dfrac{1}{2} L i^2$ Energy Density in a Magnetic Field $B = \\mu_0\\:ni$\n$u = \\dfrac{B^2}{2 \\mu_0}$\nMutual Induction Mutual Inductance $(M)$:\n$M = \\dfrac{\\mu_0 N_1 N_2 A}{l}$\nInduced EMF $\\mathcal{E}_2$ in $\\text{coil}_2$ due to change in current $i_1$ in $\\text{coil}_1$:\n$\\mathcal{E}_2 = -M \\dfrac{di_1}{dt}$\nNote: All quantities are standard, with $B$ as magnetic field strength, $\\mu_0$ as permeability of free space, $l$ as length, $A$ as area, and $N$ as number of turns.",
+    "description": "Electromagnetic Induction",
+    "tags": [],
+    "title": "Electromagnetic Induction",
+    "uri": "/ank-docs/physics/electromagnetism/induction/index.html"
+  },
+  {
     "breadcrumb": "",
     "content": "This is my new home page.",
     "description": "This is my new home page.",
     "tags": [],
     "title": "Ank Docs",
     "uri": "/ank-docs/index.html"
-  },
-  {
-    "breadcrumb": "Ank Docs",
-    "content": "Trigonometry",
-    "description": "Trigonometry",
-    "tags": [],
-    "title": "Mathematics",
-    "uri": "/ank-docs/maths/index.html"
   },
   {
     "breadcrumb": "Ank Docs",
