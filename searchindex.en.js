@@ -1,24 +1,32 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "Ank Docs \u003e Physics",
-    "content": "Electromagnetic Induction",
-    "description": "Electromagnetism",
+    "breadcrumb": "Ank Docs \u003e Physics \u003e Constants \u0026 Conversions",
+    "content": "Universal / Physical Constants Symbol Quantity Value Unit Dimension $c$ Speed of light in vacuum $3 \\times 10^{8}$ $\\text{(exact) } 299,792,458$ $\\mathrm{m \\, s^{-1}}$ $\\mathrm{LT^{-1}}$ $h$ Planck constant $6.626 \\times 10^{-34}$ $\\mathrm{J \\, s}$ $\\mathrm{ML^{2}T^{-1}}$ $hc$ Photon Energy constant $1242$ $\\mathrm{eV \\cdot nm}$ $\\mathrm{ML^{2}T^{-1}}$ $\\hbar = \\dfrac{h}{2\\pi}$ Reduced Planck constant $1.055 \\times 10^{-34}$ $\\mathrm{J \\, s}$ $\\mathrm{ML^{2}T^{-1}}$ $\\mu_0$ Vacuum Magnetic permeability $4\\pi \\times 10^{-7}$ $\\mathrm{N \\, A^{-2}}$ $\\mathrm{MLT^{-2}I^{-2}}$ $\\varepsilon_0 = \\dfrac{1}{\\mu_0\\,c^2}$ Vacuum Electric permittivity $8.854 \\times 10^{-12}$ $\\mathrm{F \\, m^{-1}}$ $\\mathrm{M^{-1}L^{-3}T^{4}I^{2}}$ $Z_0 = \\dfrac{1}{\\varepsilon_0}$ Characteristic impedance of vacuum $3.77 \\times 10^{2}$ $\\mathrm{\\Omega}$ $\\mathrm{ML^{2}T^{-3}I^{-2}}$ $G$ Newtonian constant of gravitation $6.67 \\times 10^{-11}$ $\\mathrm{m^{3} \\, kg^{-1} \\, s^{-2}}$ $\\mathrm{L^{3}M^{-1}T^{-2}}$ $R = \\dfrac{PV}{nT}$ Molar / Universal Gas constant $8.314 \\approx 25/3$ $0.082 \\approx 1/12$ $62.36$ $\\mathrm{J \\, mol^{-1} \\, K^{-1}}$ $\\mathrm{L \\,atm \\, mol^{-1} \\, K^{-1}}$ $\\mathrm{L \\,torr \\, mol^{-1} \\, K^{-1}}$ $\\mathrm{ML^{2}T^{-2}K^{-1}}$ $N_A$ Avagadro constant $6.022 \\times 10^{-23}$ $\\mathrm{mol^{-1}}$ $\\mathrm{ML^{2}T^{-2}K^{-1}}$ $N_A\\,h$ Molar Planck constant $4 \\times 10^{-10}$ $\\mathrm{J \\, s \\, mol^{-1}}$ $\\mathrm{ML^{2}T^{-2}K^{-1}}$ $k_B = \\dfrac{R}{N_A}$ Boltzmann constant $1.38 \\times 10^{-23}$ $\\mathrm{J \\, K^{-1}}$ $\\mathrm{ML^{2}T^{-2}K^{-1}}$ $\\sigma$ Stefan–Boltzmann constant $5.67 \\times 10^{-8}$ $\\mathrm{W \\, m^{-2} \\, K^{-4}}$ $\\mathrm{MT^{-3}K^{-4}}$ $\\mathrm{F} = N_A\\,e$ Faraday constant $9.65 \\times 10^{4}$ $\\mathrm{C \\, mol^{-1}}$ $\\mathrm{MT^{-3}K^{-4}}$ $e^-$ Elementary Charge $1.602 \\times 10^{-19}$ $\\mathrm{C}$ $\\mathrm{TI}$ $m_e$ Electron mass $9.11 \\times 10^{-31}$ $\\mathrm{kg}$ $\\mathrm{M}$ $m_p$ Proton mass $1.6726 \\times 10^{-27}$ $\\mathrm{kg}$ $\\mathrm{M}$ $m_n$ Neutron mass $1.6749 \\times 10^{-27}$ $\\mathrm{kg}$ $\\mathrm{M}$ $m_p / m_e$ Proton-to-electron mass ratio $1.84 \\times 10^{3}$ $-$ Dimensionless $m_{\\mu}$ Muon mass $1.88 \\times 10^{-28}$ $\\mathrm{kg}$ $\\mathrm{M}$ $m_{\\tau}$ Tau mass $3.16 \\times 10^{-27}$ $\\mathrm{kg}$ $\\mathrm{M}$ $\\alpha = \\dfrac{e^2}{2\\epsilon_0hc}$ Fine Structure constant $7.297 \\times 10^{-3} \\approx \\dfrac{1}{137}$ $-$ Dimensionless $\\alpha^{-1}$ Inverse fine structure constant $137.036$ $-$ Dimensionless $m_u = \\dfrac{m({}^{12}\\mathrm{C})}{N_A}$ Atomic mass unit $1.66 \\times 10^{-27}$ $\\mathrm{kg}$ $\\mathrm{M}$ $\\mu_B = \\dfrac{he}{4\\pi m_e}$ Bohr Magneton $9.274 \\times 10^{-24}$ $\\mathrm{J \\, T^{-1}}$ $\\mathrm{L^{2}IT^{-2}}$ $R_{\\infty} = \\dfrac{m_e e^4}{8\\epsilon_0 h^3c}$ Rydberg constant $1.10 \\times 10^{7}$ $\\mathrm{m^{-1}}$ $\\mathrm{L^{-1}}$ $R_{\\infty}\\,hc$ Rydberg Unit of Energy $2.18 \\times 10^{-18}$ $13.6$ $\\mathrm{J}$ $\\mathrm{eV}$ $\\mathrm{L^{-1}}$ $a_0 = \\dfrac{h\\epsilon_0}{\\pi e^2 m_e}$ Bohr radius $5.29 \\times 10^{-11}$ $\\mathrm{m}$ $\\mathrm{L}$ $b$ Wien wavelength displacement constant $2.90 \\times 10^{-3}$ $\\mathrm{m \\, K}$ $\\mathrm{LK}$ $b^\\prime$ Wien frequency displacement law constant $5.88 \\times 10^{10}$ $\\mathrm{Hz \\, K^{-1}}$ $\\mathrm{T^{-1}K^{-1}}$ $b_{\\text{entropy}}$ Wien entropy displacement law constant $3.00 \\times 10^{-3}$ $\\mathrm{m \\, K}$ $\\mathrm{LK}$ $r_e$ Classical electron radius $2.82 \\times 10^{-15}$ $\\mathrm{m}$ $\\mathrm{L}$ $E_{\\text{ion}}$ Ionization Energy of hydrogen $2.18 \\times 10^{-18}$ $\\mathrm{J}$ $\\mathrm{ML^{2}T^{-2}}$ Derived / Composite Constants Symbol Quantity Value Unit Dimension $V_{\\text{molar}} = \\dfrac{RT}{P}$ Molar Volume of Ideal Gas at: $\\text{See Below}$ $-$ $-$ (normal) $V_{\\text{STP}}$ $\\begin{align}T = 0^{\\circ}\\mathrm{\\,C} = 273.15\\mathrm{\\,K}\\:,\u0026\u0026 P = 101.325\\mathrm{\\,kPa} = 1\\mathrm{\\,atm}\\end{align}$ $22.4$ $\\mathrm{L}$ $L^{3}$ (new) $V_{\\text{STP}}$ $\\begin{align}T = 0^{\\circ}\\mathrm{\\,C} = 273.15\\mathrm{\\,K}\\:,\u0026\u0026 P = 100\\mathrm{\\,kPa} = 0.987\\mathrm{\\,atm}\\end{align}$ $22.7$ $\\mathrm{L}$ $L^{3}$ $V_{\\text{NTP}}$ $\\begin{align}T = 20^{\\circ}\\mathrm{\\,C} = 293.15\\mathrm{\\,K}\\:,\u0026\u0026 P = 101.325\\mathrm{\\,kPa} = 1\\mathrm{\\,atm}\\end{align}$ $24.0$ $\\mathrm{L}$ $L^{3}$ $V_{\\text{SATP}}$ $\\begin{align}T = 25^{\\circ}\\mathrm{\\,C} = 298.15\\mathrm{\\,K}\\:,\u0026\u0026 P = 101.325\\mathrm{\\,kPa} = 1\\mathrm{\\,atm}\\end{align}$ $24.5$ $\\mathrm{L}$ $L^{3}$ Empirical / Local Constants Symbol Quantity Value Unit Dimension $g_{\\text{earth}}$ Earth’s acceleration due to gravity $9.81$ $\\mathrm{m \\, s^{-2}}$ $\\mathrm{L^{3}M^{-1}T^{-2}}$ Note: This page includes several unconventional approximations, often tailored for exams where calculators aren’t permitted.",
+    "description": "Constants",
     "tags": [],
-    "title": "Electromagnetism",
-    "uri": "/ank-docs/physics/electromagnetism/index.html"
+    "title": "Constants",
+    "uri": "/ank-docs/physics/constants--conversions/constants/index.html"
   },
   {
     "breadcrumb": "Ank Docs \u003e Mathematics",
-    "content": "Ratios and Angles\rSpecial Values",
-    "description": "Formulas for Trigonometry",
+    "content": "Approximations",
+    "description": "Constants \u0026 Approximations",
     "tags": [],
-    "title": "Trigonometry",
-    "uri": "/ank-docs/maths/trigonometry/index.html"
+    "title": "Constants \u0026 Approximations",
+    "uri": "/ank-docs/maths/constants--approximations/index.html"
+  },
+  {
+    "breadcrumb": "Ank Docs \u003e Physics",
+    "content": "Constants",
+    "description": "Constants \u0026 Conversions",
+    "tags": [],
+    "title": "Constants \u0026 Conversions",
+    "uri": "/ank-docs/physics/constants--conversions/index.html"
   },
   {
     "breadcrumb": "Ank Docs",
-    "content": "Trigonometry",
-    "description": "Trigonometry",
+    "content": "Constants \u0026 Approximations\rTrigonometry",
+    "description": "Constants \u0026 Approximations\rTrigonometry",
     "tags": [],
     "title": "Mathematics",
     "uri": "/ank-docs/maths/index.html"
@@ -32,8 +40,16 @@ var relearn_searchindex = [
     "uri": "/ank-docs/maths/trigonometry/identities/index.html"
   },
   {
+    "breadcrumb": "Ank Docs \u003e Mathematics \u003e Constants \u0026 Approximations",
+    "content": "Irrational Exact Approximation $\\sqrt{2}$ $1.414 \\approx \\dfrac{17}{12} \\approx \\dfrac{99}{70}$ $\\sqrt{3}$ $1.732 \\approx \\dfrac{26}{15} \\approx \\dfrac{31}{18}$ $\\pi$ $3.14 \\approx \\dfrac{22}{7} \\approx \\dfrac{355}{113}$ $\\pi^2$ $9.87 \\approx \\dfrac{49}{5} \\approx \\dfrac{355}{36}$ $\\pi^3$ $30.0063 \\approx 31$ $e$ $2.72 \\approx \\dfrac{19}{7} \\approx \\dfrac{87}{32} \\approx \\dfrac{2721}{1001}$ $e^2$ $7.39 \\approx \\dfrac{22}{3}$ $e^3$ $20.0855 \\approx 20$ $\\phi$ $\\dfrac{1+\\sqrt{5}}{2} \\approx 1.618 \\approx \\dfrac{13}{8} \\approx \\dfrac{21}{13} \\approx \\dfrac{255}{14}$",
+    "description": "Approximations",
+    "tags": [],
+    "title": "Approximations",
+    "uri": "/ank-docs/maths/constants--approximations/approximations/index.html"
+  },
+  {
     "breadcrumb": "Ank Docs",
-    "content": "Electromagnetism",
+    "content": "Constants \u0026 Conversions\rElectromagnetism",
     "description": "Physics",
     "tags": [],
     "title": "Physics",
@@ -48,11 +64,27 @@ var relearn_searchindex = [
     "uri": "/ank-docs/maths/trigonometry/values/index.html"
   },
   {
-    "breadcrumb": "Ank Docs \u003e Physics \u003e Electromagnetism",
-    "content": "Induction Faraday’s Law Whenever the flux of magnetic field through the area bounded by a closed conducting loop changes, and emf in produced in the loop.\nEMF induced $(\\mathcal{E})$:\n$\\mathcal{E} = -\\dfrac{d\\Phi}{dt}$\nFlux ($\\Phi$):\n$\\Phi = \\int{\\vec{B}\\cdot \\vec{dS}} = BA \\cos \\theta$\nLenz’s Law The direction of induced current is such theat it opposes the change that has induced it. Motional EMF EMF in a conductor moving with velocity $v$ in magnetic field $B$:\n$\\mathcal{E} = vBl$ Induced Electric Field Induced electric field $E$ around a loop: $\\oint E \\, dl = -\\dfrac{d\\Phi}{dt}$ Eddy Current Electromagnetic damping. Circular currents induced in conductors due to changing magnetic flux. $\\left|i\\right| \\propto -\\dfrac{d\\Phi}{dt}$. Self-Induction $\\Phi = Li$\nInduced EMF $(\\mathcal{E})$ in coil due to its own current $I$:\n$\\mathcal{E} = -L \\dfrac{di}{dt}$\nInductor Self-Inductance of a Long Solenoid $L = \\mu_0\\:n^2Al$\n$n$: Turns per unit length,\n$A$: Cross-sectional area,\n$l$: Length of solenoid.\nGrowth and Decay of Current in an LR Circuit Growth:\n$i = i_0 \\biggr(1 - e^{-t/\\tau} \\biggr)$ Decay:\n$i = i_0\\: e^{-t/\\tau}$ Time constant ($\\tau$):\n$\\tau = \\dfrac{L}{R}$ At $t = \\tau$,\nGrowth: $i = i_0 (1-\\dfrac{1}{e}) = 0.63 i_0$\nDecay: $i = i_0 \\dfrac{1}{e} = 0.37 i_0$\nEnergy Stored in an Inductor Energy $(U)$: $U = \\dfrac{1}{2} L i^2$ Energy Density in a Magnetic Field $B = \\mu_0\\:ni$\n$u = \\dfrac{B^2}{2 \\mu_0}$\nMutual Induction Mutual Inductance $(M)$:\n$M = \\dfrac{\\mu_0 N_1 N_2 A}{l}$\nInduced EMF $\\mathcal{E}_2$ in $\\text{coil}_2$ due to change in current $i_1$ in $\\text{coil}_1$:\n$\\mathcal{E}_2 = -M \\dfrac{di_1}{dt}$\nNote: All quantities are standard, with $B$ as magnetic field strength, $\\mu_0$ as permeability of free space, $l$ as length, $A$ as area, and $N$ as number of turns.",
-    "description": "Electromagnetic Induction",
+    "breadcrumb": "Ank Docs \u003e Mathematics",
+    "content": "Ratios and Angles\rSpecial Values",
+    "description": "Formulas for Trigonometry",
     "tags": [],
-    "title": "Electromagnetic Induction",
+    "title": "Trigonometry",
+    "uri": "/ank-docs/maths/trigonometry/index.html"
+  },
+  {
+    "breadcrumb": "Ank Docs \u003e Physics",
+    "content": "Induction",
+    "description": "Electromagnetism",
+    "tags": [],
+    "title": "Electromagnetism",
+    "uri": "/ank-docs/physics/electromagnetism/index.html"
+  },
+  {
+    "breadcrumb": "Ank Docs \u003e Physics \u003e Electromagnetism",
+    "content": "Electromagnetic Induction Faraday’s Law Whenever the flux of magnetic field through the area bounded by a closed conducting loop changes, and emf in produced in the loop.\nEMF induced $(\\mathcal{E})$:\n$\\mathcal{E} = -\\dfrac{d\\Phi}{dt}$\nFlux ($\\Phi$):\n$\\Phi = \\int{\\vec{B}\\cdot \\vec{dS}} = BA \\cos \\theta$\nLenz’s Law The direction of induced current is such theat it opposes the change that has induced it. Motional EMF EMF in a conductor moving with velocity $v$ in magnetic field $B$:\n$\\mathcal{E} = vBl$ Induced Electric Field Induced electric field $E$ around a loop: $\\oint E \\, dl = -\\dfrac{d\\Phi}{dt}$ Eddy Current Electromagnetic damping. Circular currents induced in conductors due to changing magnetic flux. $\\left|i\\right| \\propto -\\dfrac{d\\Phi}{dt}$. Self-Induction $\\Phi = Li$\nInduced EMF $(\\mathcal{E})$ in coil due to its own current $I$:\n$\\mathcal{E} = -L \\dfrac{di}{dt}$\nInductors Self-Inductance of a Long Solenoid $L = \\mu_0\\:n^2Al$\n$n$: Turns per unit length,\n$A$: Cross-sectional area,\n$l$: Length of solenoid.\nGrowth and Decay of Current in an LR Circuit Growth:\n$i = i_0 \\biggr(1 - e^{-t/\\tau} \\biggr)$ Decay:\n$i = i_0\\: e^{-t/\\tau}$ Time constant ($\\tau$):\n$\\tau = \\dfrac{L}{R}$ At $t = \\tau$,\nGrowth: $i = i_0 (1-\\dfrac{1}{e}) = 0.63 i_0$\nDecay: $i = i_0 \\dfrac{1}{e} = 0.37 i_0$\nEnergy Stored in an Inductor Energy $(U)$: $U = \\dfrac{1}{2} L i^2$ Energy Density in a Magnetic Field $B = \\mu_0\\:ni$\n$u = \\dfrac{B^2}{2 \\mu_0}$\nMutual Induction Mutual Inductance $(M)$:\n$M = \\dfrac{\\mu_0 N_1 N_2 A}{l}$\nInduced EMF $\\mathcal{E}_2$ in $\\text{coil}_2$ due to change in current $i_1$ in $\\text{coil}_1$:\n$\\mathcal{E}_2 = -M \\dfrac{di_1}{dt}$",
+    "description": "Induction",
+    "tags": [],
+    "title": "Induction",
     "uri": "/ank-docs/physics/electromagnetism/induction/index.html"
   },
   {
