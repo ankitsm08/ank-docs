@@ -8,6 +8,14 @@ var relearn_searchindex = [
     "uri": "/ank-docs/physics/constants--conversions/constants/index.html"
   },
   {
+    "breadcrumb": "Ank Docs",
+    "content": "Constants \u0026 Approximations\rTrigonometry\rCalculus",
+    "description": "Constants \u0026 Approximations\rTrigonometry\rCalculus",
+    "tags": [],
+    "title": "Mathematics",
+    "uri": "/ank-docs/maths/index.html"
+  },
+  {
     "breadcrumb": "Ank Docs \u003e Physics",
     "content": "Constants\rConversions\rUnits",
     "description": "Constants \u0026 Conversions",
@@ -22,14 +30,6 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Constants \u0026 Approximations",
     "uri": "/ank-docs/maths/constants--approximations/index.html"
-  },
-  {
-    "breadcrumb": "Ank Docs",
-    "content": "Constants \u0026 Approximations\rTrigonometry",
-    "description": "Constants \u0026 Approximations\rTrigonometry",
-    "tags": [],
-    "title": "Mathematics",
-    "uri": "/ank-docs/maths/index.html"
   },
   {
     "breadcrumb": "Ank Docs \u003e Mathematics \u003e Trigonometry",
@@ -88,6 +88,14 @@ var relearn_searchindex = [
     "uri": "/ank-docs/physics/constants--conversions/units/index.html"
   },
   {
+    "breadcrumb": "Ank Docs \u003e Mathematics \u003e Calculus",
+    "content": "Basic Formulas 1. Power Rule $\\quad (n\\not ={-1})$\n$\\displaystyle\\int (f(x))^n f'(x) \\, dx = \\dfrac{(f(x))^{n+1}}{n+1} + C$\n$\\displaystyle\\int x^n \\, dx = \\dfrac{x^{n+1}}{n+1} + C$\n$\\displaystyle\\int |x|^n \\, dx = \\dfrac{x |x|^{n}}{n+1} + C$\n2. Logarithmic Integration $\\displaystyle\\int \\dfrac{f'(x)}{f(x)} \\, dx = \\ln |f(x)| + C$\n$\\displaystyle\\int \\dfrac{1}{x} \\, dx = \\ln |x| + C$\n3. Trigonometric Functions $\\begin{aligned}\r\\displaystyle\\int \\sin x \\, dx \u0026\u0026\u0026 = -\\cos x + C \\\\ \\displaystyle\\int \\cos x \\, dx \u0026\u0026\u0026 = \\sin x + C \\\\ \\displaystyle\\int \\tan x \\, dx \u0026\u0026\u0026 = -\\log |\\cos x| + C \u0026\u0026 = \\log |\\sec x| + C \\\\ \\displaystyle\\int \\cot x \\, dx \u0026\u0026\u0026 = \\log |\\sin x| + C \u0026\u0026 = -\\log |\\csc x| + C \\\\ \\displaystyle\\int \\sec x \\, dx \u0026\u0026\u0026 = \\log |\\sec x + \\tan x| + C \u0026\u0026 = \\log \\left| \\tan \\left(\\frac{\\pi}{4} + \\frac{x}{2}\\right) \\right| + C \\\\ \\displaystyle\\int \\csc x \\, dx \u0026\u0026\u0026 = \\log |\\csc x - \\cot x| + C \u0026\u0026 = \\log \\left| \\tan \\frac{x}{2} \\right| + C\r\\end{aligned}$\n4. Exponential Function $\\displaystyle\\int a^x \\, dx = \\dfrac{a^x}{\\log_e a} + C$\n$\\displaystyle\\int e^x \\, dx = e^x + C$\n5. Special $\\begin{aligned}\r\\displaystyle\\int \\dfrac{dx}{a^2 + x^2} \u0026 = \\dfrac{1}{a} \\tan^{-1} \\dfrac{x}{a} + C \\\\[8mu]\r\\displaystyle\\int \\dfrac{dx}{a^2 - x^2} \u0026 = \\dfrac{1}{2a} \\log \\left| \\dfrac{a+x}{a-x} \\right| + C \\\\[25mu]\r\\displaystyle\\int \\dfrac{dx}{\\sqrt{a^2 - x^2}} \u0026 = \\sin^{-1} \\dfrac{x}{a} + C \\\\[25mu]\r\\displaystyle\\int \\dfrac{dx}{\\sqrt{x^2 + a^2}} \u0026 = \\log \\left|x + \\sqrt{x^2 + a^2}\\right| + C \\\\[8mu]\r\\displaystyle\\int \\dfrac{dx}{\\sqrt{x^2 - a^2}} \u0026 = \\log \\left| x + \\sqrt{x^2 - a^2} \\right| + C \\\\[25mu]\r\\displaystyle\\int \\dfrac{dx}{x\\sqrt{x^2 - a^2}} \u0026 = \\dfrac{1}{a} \\sec^{-1} \\dfrac{x}{a} + C \\\\[25mu]\r\\displaystyle\\int \\sqrt{a^2 - x^2} \\, dx \u0026 = \\dfrac{x}{2} \\sqrt{a^2 - x^2} + \\dfrac{a^2}{2} \\sin^{-1} \\dfrac{x}{a} + C \\\\[8mu]\r\\displaystyle\\int \\sqrt{a^2 + x^2} \\, dx \u0026 = \\dfrac{x}{2} \\sqrt{a^2 + x^2} + \\dfrac{a^2}{2} \\log \\left(x + \\sqrt{a^2 + x^2}\\right) + C \\\\[8mu]\r\\displaystyle\\int \\sqrt{x^2 - a^2} \\, dx \u0026 = \\dfrac{x}{2} \\sqrt{x^2 - a^2} - \\dfrac{a^2}{2} \\log \\left(x + \\sqrt{x^2 - a^2}\\right) + C \\\\[8mu]\r\\end{aligned}$",
+    "description": "Indefinite Integration",
+    "tags": [],
+    "title": "Indefinite Integration",
+    "uri": "/ank-docs/maths/calculus/indefinite-integration/index.html"
+  },
+  {
     "breadcrumb": "Ank Docs \u003e Physics",
     "content": "Induction",
     "description": "Electromagnetism",
@@ -97,11 +105,19 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Ank Docs \u003e Physics \u003e Electromagnetism",
-    "content": "Electromagnetic Induction Faraday’s Law Whenever the flux of magnetic field through the area bounded by a closed conducting loop changes, and emf in produced in the loop.\nEMF induced $(\\mathcal{E})$:\n$\\mathcal{E} = -\\dfrac{d\\Phi}{dt}$\nFlux ($\\Phi$):\n$\\Phi = \\int{\\vec{B}\\cdot \\vec{dS}} = BA \\cos \\theta$\nLenz’s Law The direction of induced current is such theat it opposes the change that has induced it. Motional EMF EMF in a conductor moving with velocity $v$ in magnetic field $B$:\n$\\mathcal{E} = vBl$ Induced Electric Field Induced electric field $E$ around a loop: $\\oint E \\, dl = -\\dfrac{d\\Phi}{dt}$ Eddy Current Electromagnetic damping. Circular currents induced in conductors due to changing magnetic flux. $\\left|i\\right| \\propto -\\dfrac{d\\Phi}{dt}$. Self-Induction $\\Phi = Li$\nInduced EMF $(\\mathcal{E})$ in coil due to its own current $I$:\n$\\mathcal{E} = -L \\dfrac{di}{dt}$\nInductors Self-Inductance of a Long Solenoid $L = \\mu_0\\:n^2Al$\n$n$: Turns per unit length,\n$A$: Cross-sectional area,\n$l$: Length of solenoid.\nGrowth and Decay of Current in an LR Circuit Growth:\n$i = i_0 \\biggr(1 - e^{-t/\\tau} \\biggr)$ Decay:\n$i = i_0\\: e^{-t/\\tau}$ Time constant ($\\tau$):\n$\\tau = \\dfrac{L}{R}$ At $t = \\tau$,\nGrowth: $i = i_0 (1-\\dfrac{1}{e}) = 0.63 i_0$\nDecay: $i = i_0 \\dfrac{1}{e} = 0.37 i_0$\nEnergy Stored in an Inductor Energy $(U)$: $U = \\dfrac{1}{2} L i^2$ Energy Density in a Magnetic Field $B = \\mu_0\\:ni$\n$u = \\dfrac{B^2}{2 \\mu_0}$\nMutual Induction Mutual Inductance $(M)$:\n$M = \\dfrac{\\mu_0 N_1 N_2 A}{l}$\nInduced EMF $\\mathcal{E}_2$ in $\\text{coil}_2$ due to change in current $i_1$ in $\\text{coil}_1$:\n$\\mathcal{E}_2 = -M \\dfrac{di_1}{dt}$",
+    "content": "Electromagnetic Induction Faraday’s Law Whenever the flux of magnetic field through the area bounded by a closed conducting loop changes, and emf in produced in the loop.\nEMF induced $(\\mathcal{E})$:\n$\\mathcal{E} = -\\dfrac{d\\Phi}{dt}$\nFlux ($\\Phi$):\n$\\Phi = \\int{\\vec{B}\\cdot \\vec{dS}} = BA \\cos \\theta$\nLenz’s Law The direction of induced current is such theat it opposes the change that has induced it. Motional EMF EMF in a conductor moving with velocity $v$ in magnetic field $B$:\n$\\mathcal{E} = vBl$ Induced Electric Field Induced electric field $E$ around a loop: $\\oint E \\, dl = -\\dfrac{d\\Phi}{dt}$ Eddy Current Electromagnetic damping. Circular currents induced in conductors due to changing magnetic flux. $i \\propto \\left|\\dfrac{d\\Phi}{dt}\\right|$. Self-Induction $\\Phi = Li$\nInduced EMF $(\\mathcal{E})$ in coil due to its own current $I$:\n$\\mathcal{E} = -L \\dfrac{di}{dt}$\nInductors Self-Inductance of a Long Solenoid $L = \\mu_0\\:n^2Al$\n$n$: Turns per unit length,\n$A$: Cross-sectional area,\n$l$: Length of solenoid.\nGrowth and Decay of Current in an LR Circuit Growth:\n$i = i_0 \\biggr(1 - e^{-t/\\tau} \\biggr)$ Decay:\n$i = i_0\\: e^{-t/\\tau}$ Time constant ($\\tau$):\n$\\tau = \\dfrac{L}{R}$ At $t = \\tau$,\nGrowth: $i = i_0 (1-\\dfrac{1}{e}) = 0.63 i_0$\nDecay: $i = i_0 \\dfrac{1}{e} = 0.37 i_0$\nEnergy Stored in an Inductor Energy $(U)$: $U = \\dfrac{1}{2} L i^2$ Energy Density in a Magnetic Field $B = \\mu_0\\:ni$\n$u = \\dfrac{B^2}{2 \\mu_0}$\nMutual Induction Mutual Inductance $(M)$:\n$M = \\dfrac{\\mu_0 N_1 N_2 A}{l}$\nInduced EMF $\\mathcal{E}_2$ in $\\text{coil}_2$ due to change in current $i_1$ in $\\text{coil}_1$:\n$\\mathcal{E}_2 = -M \\dfrac{di_1}{dt}$",
     "description": "Induction",
     "tags": [],
     "title": "Induction",
     "uri": "/ank-docs/physics/electromagnetism/induction/index.html"
+  },
+  {
+    "breadcrumb": "Ank Docs \u003e Mathematics",
+    "content": "Indefinite Integration",
+    "description": "Calculus",
+    "tags": [],
+    "title": "Calculus",
+    "uri": "/ank-docs/maths/calculus/index.html"
   },
   {
     "breadcrumb": "",
