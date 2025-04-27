@@ -17,6 +17,14 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Ank Docs \u003e \rMathematics",
+    "content": "Basic Algebraic Operations Commutative Property:\n$\\begin{aligned}\ra + b \u0026 = b + a \\\\\ra \\times b \u0026 = b \\times a \\\\\r\\end{aligned}$\nAssociative Property:\n$\\begin{aligned}\r(a + b) + c \u0026 = a + (b + c) \\\\\r(a \\times b) \\times c \u0026 = a \\times (b \\times c) \\\\\r\\end{aligned}$\nDistributive Property:\n$\\begin{aligned}\ra \\cdot (b + c) \u0026 = ab + ac \\\\\r(a + b)(c + d) \u0026 = ac + ad + bc + bd \\\\\r\\end{aligned}$\nExponents and Powers $\\begin{aligned}\ra^m \\times a^n \u0026 = a^{m+n} \\\\\r\\frac{a^m}{a^n} \u0026 = a^{m-n} \\\\\r(a^m)^n \u0026 = a^{m \\times n} \\\\\ra^0 \u0026 = 1 \\\\\ra^1 \u0026 = a \\\\\ra^{-n} \u0026 = \\frac{1}{a^n} \\\\\ra^{\\frac{m}{n}} \u0026 = \\sqrt[n]{a^m} \\\\\r\\end{aligned}$\nPolynomials Quadratic: $\\begin{aligned}\r(a + b)^2 \u0026 = a^2 + 2ab + b^2 \\\\\r(a - b)^2 \u0026 = a^2 - 2ab + b^2 \\\\\ra^2 + b^2 \u0026 = (a + b)^2 - 2ab \\\\\r\u0026 = (a - b)^2 + 2ab \\\\\ra^2 - b^2 \u0026 = (a - b)(a + b) \\\\\r(x + a)(x + b) \u0026 = x^2 + (a + b)x + ab \\\\\r(a + b + c)^2 \u0026 = a^2 + b^2 + c^2 + 2(ab + ac + bc) \\\\\r\\end{aligned}$\nCubic: $\\begin{aligned}\r(a + b)^3 \u0026 = a^3 + b^3 + 3ab(a + b) \\\\\r\u0026 = a^3 + 3a^2b + 3ab^2 + b^3 \\\\\r(a - b)^3 \u0026 = a^3 - b^3 - 3ab(a - b) \\\\\r\u0026 = a^3 - 3a^2b + 3ab^2 - b^3 \\\\\ra^3 + b^3 \u0026 = (a + b)(a^2 - ab + b^2) \\\\\ra^3 - b^3 \u0026 = (a - b)(a^2 + ab + b^2) \\\\\r(a + b + c)^3 \u0026 = a^3 + b^3 + c^3 − 3(a + b)(b + c)(c + a) \\\\\r\\end{aligned}$\nSpecial: $\\begin{aligned}\ra^2 + b^2 + c^2 - ab - bc - ca \u0026 = \\frac{1}{2}\\left[ (a - b)^2 + (b - c)^2 + (c - a)^2 \\right] \\\\\ra^3 + b^3 + c^3 - 3abc \u0026 = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca) \\\\\r\u0026 = (a + b + c)^3 − 3(a + b + c)(ab + bc + ca) \\\\\r\\end{aligned}$\nHigher Order Polynomials: $\\begin{aligned}\r(a \\pm b)^4 \u0026 = a^4 \\pm 4a^3b + 6a^2b^2 \\mp 4ab^3 + b^4 \\\\\ra^4 - b^4 \u0026 = (a - b)(a + b)(a^2 + b^2) \\\\\r(a \\pm b)^5 \u0026 = a^5 \\pm 5a^4b + 10a^3b^2 \\mp 10a^2b^3 + 5ab^4 \\pm b^5 \\\\\ra^5 - b^5 \u0026 = (a - b)(a^4 + a^3b + a^2b^2 + ab^3 + b^4) \\\\\r\\end{aligned}$\nQuadratic Equations For a quadratic equation of the form $ ax^2 + bx + c = 0 $,\nthe solution is given by the quadratic formula.\n$ x = \\dfrac{-b \\pm \\sqrt{b^2 - 4ac}}{2a} $\nDeterminant: $ \\Delta \\text{ (or) } D = b^2 - 4ac $\nNature of roots:\nDistince real roots: $ \\Delta \u003e 0 $ Equal real roots: $ \\Delta = 0 $ Dinstinct complex roots: $ \\Delta \u003c 0 $ Completing the Square $ ax^2 + bx + c = \\left(x + \\dfrac{b}{2a}\\right)^2 - \\dfrac{b^2-4ac}{4a^2} $ If $a = 1$ then,\n$ x^2 + bx + c = \\left(x + \\dfrac{b}{2}\\right)^2 - \\dfrac{b^2}{4} + c $ Logarithms $ a^x = b \\implies x = \\log_a b $\n$\\begin{aligned}\r\\ln a \u0026 = \\log_e a \\\\\r\\log_a 1 \u0026 = 0 \\\\\r\\log_a a \u0026 = 1 \\\\\r\\log_a x^n \u0026 = n \\log_a x \\\\\r\\log_{a^n} x \u0026 = \\dfrac{1}{n} \\log_a x \\\\\r\\log_a \\sqrt[n]{x} \u0026 = \\dfrac{1}{n} \\log_a x \\\\\r\\log_a(x \\cdot y) \u0026 = \\log_a x + \\log_a y \\\\\r\\log_a\\left(\\dfrac{x}{y}\\right) \u0026 = \\log_a x - \\log_a y \\\\\ra^{\\log_a x} \u0026 = x \\\\\r\\log_a b \u0026 = \\dfrac{1}{\\log_b a} \\\\\r\\log_a b \u0026 = \\dfrac{\\log_c b}{\\log_c a} \\\\\r\\end{aligned}$",
+    "description": "Algebra",
+    "tags": [],
+    "title": "Algebra",
+    "uri": "/ank-docs/maths/algebra/index.html"
+  },
+  {
+    "breadcrumb": "Ank Docs \u003e \rMathematics",
     "content": "Approximations",
     "description": "Constants \u0026 Approximations",
     "tags": [],
@@ -33,15 +41,15 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Ank Docs",
-    "content": "Constants \u0026 Approximations\rTrigonometry\rCalculus",
-    "description": "Constants \u0026 Approximations\rTrigonometry\rCalculus",
+    "content": "Algebra\rConstants \u0026 Approximations\rTrigonometry\rCalculus",
+    "description": "Mathematics",
     "tags": [],
     "title": "Mathematics",
     "uri": "/ank-docs/maths/index.html"
   },
   {
     "breadcrumb": "Ank Docs \u003e \rChemistry",
-    "content": "IUPAC Naming",
+    "content": "IUPAC Naming\rCommon Names",
     "description": "Organic",
     "tags": [],
     "title": "Organic",
@@ -70,6 +78,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Approximations",
     "uri": "/ank-docs/maths/constants--approximations/approximations/index.html"
+  },
+  {
+    "breadcrumb": "Ank Docs \u003e \rChemistry \u003e \rOrganic",
+    "content": "Organic Chemistry: Common Names Common names are often used colloquially and in everyday life but lack a systematic approach like IUPAC nomenclature. These seemingly arbitrary names can hinder your understanding and ability to solve problems, as exam questions may use common names that you might not be familiar with. To overcome this, it’s essential to familiarize yourself with common names and their corresponding structures.\nResources [!Orange] Note This list may and will be updated in future as I add more resources.\nPDFs Common Names Google Drive Collection: PDFs I collected that included common names and their corresponding structures. (Sorry, but I didn’t consider noting the sources of some of these PDFs at that time.) Online Courses Khan Academy Organic Chemistry Course: Khan Academy is the best. (My favourite) Websites IUPAC Nomenclature of Organic Compounds: Full text explaination of IUPAC Nomenclature of Organic Compounds. Memorization Techniques To effectively memorize common names, try these strategies:\nSpaced Repetition: Revise common names at increasing intervals to reinforce your memory. Associations: Link common names to familiar objects or concepts to enhance recall. Flashcards: (Totally Optional) Create flashcards with common names on one side and structures on the other. Try out Anki if you wanna make them digitally.",
+    "description": "Common Names",
+    "tags": [],
+    "title": "Common Names",
+    "uri": "/ank-docs/chemistry/organic/common-names/index.html"
   },
   {
     "breadcrumb": "Ank Docs \u003e \rPhysics \u003e \rConstants \u0026 Conversions",
@@ -145,7 +161,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "📚 Welcome to Ank’s Ultimate Study Hub 🚀 Welcome to the mind palace of notes, formulas, hacks, and straight-up wizardry 🎉! Whether you’re battling JEE, wrestling with Class 11 \u0026 12 topics, or diving into some tasty code, you’ve found your spot. Here, everything’s laid out like a cheat sheet 📘 to life: physics, chemistry, math formulas, programming tricks, and the oh-so-sneaky shortcuts that’ll make you wonder why everyone else finds it so hard.\nOpen ( yes, you can edit these notes yourself! ), free, and overflowing with stuff you’ll actually use – feel free to binge, bookmark, and bless your exams with the power moves stored right here. Study smart, learn faster, and leave ‘em wondering what your secret is! 💡🔥\n…But I am a pirate !! 🏴‍☠️\rAhoy, matey! Welcome t’ Ank’s Treasure Trove o’ Knowledge! 💎\nYe be sailin’ in the right waters if yer after secrets t’ conquer the high seas o’ exams! From formulas and magic scrolls fer JEE battles to sneaky tricks fer ye everyday curriculum in Class 11 an’ 12, this be the hoard ye seek. Ye’ll find the finest charts fer physics, chemistry, math, an’ even some coded enchantments fer ye clever pirates. 🧠\nPlunder freely an’ carve yer name on it, me hearty – no coin needed! Binge it all, stow it fer later, an’ give yer mind the compass it needs t’ steer straight fer success. Now, go forth an’ show them landlubbers who rules the waves! ⚓️💀\n📃 Table of Contents 📑 Subjects / Categories\rMathematics\rPhysics\rChemistry",
+    "content": "📚 Welcome to Ank’s Ultimate Study Hub 🚀 Welcome to the mind palace of notes, formulas, hacks, and straight-up wizardry 🎉! Whether you’re battling JEE, wrestling with Class 11 \u0026 12 topics, or diving into some tasty code, you’ve found your spot. Here, everything’s laid out like a cheat sheet 📘 to life: physics, chemistry, math formulas, programming tricks, and the oh-so-sneaky shortcuts that’ll make you wonder why everyone else finds it so hard.\nOpen ( yes, you can edit these notes yourself! ), free, and overflowing with stuff you’ll actually use – feel free to binge, bookmark, and bless your exams with the power moves stored right here. Study smart, learn faster, and leave ‘em wondering what your secret is! 💡🔥\n…But I am a pirate !! 🏴‍☠️\rAhoy, matey! Welcome t’ Ank’s Treasure Trove o’ Knowledge! 💎\nYe be sailin’ in the right waters if yer after secrets t’ conquer the high seas o’ exams! From formulas and magic scrolls fer JEE battles to sneaky tricks fer ye everyday curriculum in Class 11 an’ 12, this be the hoard ye seek. Ye’ll find the finest charts fer physics, chemistry, math, an’ even some coded enchantments fer ye clever pirates. 🧠\nPlunder freely an’ carve yer name on it, me hearty – no coin needed! Binge it all, stow it fer later, an’ give yer mind the compass it needs t’ steer straight fer success. Now, go forth an’ show them landlubbers who rules the waves! ⚓️💀\nSubjects / Categories\rMathematics\rPhysics\rChemistry",
     "description": "Documentation on various topics, formula sheets, extensive lists, competetive tricks, and many more.",
     "tags": [],
     "title": "Ank Docs",
