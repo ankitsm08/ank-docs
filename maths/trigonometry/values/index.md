@@ -21,6 +21,6 @@
 
 ---
 
-## Sources
+## References
 
 - [Wikipedia: Exact Trigonometric Values](https://en.wikipedia.org/wiki/Exact_trigonometric_values)
