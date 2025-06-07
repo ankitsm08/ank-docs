@@ -1,3 +1,3 @@
-# Constants &amp; Conversions
+# Constants & Conversions
 
 {{% children containerstyle="div" style="h3" %}}
