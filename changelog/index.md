@@ -1,6 +1,7 @@
 # Changelog
 
 ## Public Publish
+ * 2025-07-19 :: update 0.4.0   ~ ankitsm08
  * 2025-07-17 :: update 0.3.1   ~ ankitsm08
  * 2025-06-09 :: Update sitemap.xml   ~ ankitsm08
  * 2025-06-08 :: update 0.3.0   ~ ankitsm08
@@ -23,6 +24,9 @@
  * 2024-10-27 :: Create LICENSE   ~ ankitsm08
 
 ## Content Source
+ * 2025-07-21 :: add: complex numbers notes, conjugate and properties   ~ ankitsm08
+ * 2025-07-21 :: add: approximations for log, fraction anf trigo   ~ ankitsm08
+ * 2025-07-21 :: add: extra universal constant value for different unit in physics constants   ~ ankitsm08
  * 2025-07-19 :: add .gitignore to exclude changelog directory   ~ ankitsm08
  * 2025-07-17 :: Merge branch 'master' of https://github.com/ankitsm08/ank-docs-source-code   ~ ankitsm08
  * 2025-07-17 :: add more formulas for special triangle case, and change symbols of angles for better memorization   ~ ankitsm08
@@ -65,6 +69,7 @@
  * 2024-11-04 :: add content to repo from ank-docs   ~ ankitsm08
 
 ## Root Site
+ * 2025-07-21 :: update to relearn version 8 and solve conflicts   ~ ankitsm08
  * 2025-07-19 :: add changelog generation to build script   ~ ankitsm08
  * 2025-07-19 :: build: changelog generator for site, content, and publish versions   ~ ankitsm08
  * 2025-07-19 :: add: changelog menu entry, add aria-hidden tags, change some icons   ~ ankitsm08
