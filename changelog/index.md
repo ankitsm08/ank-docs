@@ -1,6 +1,7 @@
 # Changelog
 
 ## Public Publish
+ * 2025-07-21 :: update 0.4.1-upgrade-fix   ~ ankitsm08
  * 2025-07-19 :: update 0.4.0   ~ ankitsm08
  * 2025-07-17 :: update 0.3.1   ~ ankitsm08
  * 2025-06-09 :: Update sitemap.xml   ~ ankitsm08
@@ -24,6 +25,8 @@
  * 2024-10-27 :: Create LICENSE   ~ ankitsm08
 
 ## Content Source
+ * 2025-07-31 :: add: more rydberg constant related values and increase precision of already existing   ~ ankitsm08
+ * 2025-07-31 :: undraft complex numbers notes   ~ ankitsm08
  * 2025-07-21 :: add: complex numbers notes, conjugate and properties   ~ ankitsm08
  * 2025-07-21 :: add: approximations for log, fraction anf trigo   ~ ankitsm08
  * 2025-07-21 :: add: extra universal constant value for different unit in physics constants   ~ ankitsm08
